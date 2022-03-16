@@ -50,6 +50,8 @@
 <h1>Screenshots <h1>
 	<h3>A glimpse of our website <h3>
 		<h5>1.Open index.html on live server(using VS code live server).<h5>
+			![Screenshot (283)](https://user-images.githubusercontent.com/87422047/158543656-6e36f2d5-01ac-409b-ae8d-804f36708343.png)
+
 
 
 
