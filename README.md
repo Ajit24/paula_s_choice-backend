@@ -48,6 +48,11 @@
 		<h5>*GitHub: https://github.com/PranavDalvi9<h5>
 			
 <h1>Screenshots <h1>
+	<h3>A glimpse of our website <h3>
+		<h5>1.Open index.html on live server(using VS code live server).<h5>
+
+
+
 
 			
 
