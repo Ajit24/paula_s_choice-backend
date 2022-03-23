@@ -51,6 +51,33 @@
 	<h3>A glimpse of our website <h3>
 		<h5>1.Open index.html on live server(using VS code live server).<h5>
 			![Screenshot (283)](https://user-images.githubusercontent.com/87422047/158543656-6e36f2d5-01ac-409b-ae8d-804f36708343.png)
+			## HOME PAGE
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss/Screenshot%20(283).png" alt = "img" />
+
+## Create Account/SIGN-UP page
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss/Screenshot%20(288).png" alt = "img" />
+
+## LOGIN PAGE
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss/Screenshot%20(287).png" />
+
+## PRODUCT PAGE
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss/Screenshot%20(290).png" />
+
+## SHOPPING BAG
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss/Screenshot%20(296).png" />
+
+## SHIPPING PAGE 
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss/Screenshot%20(299).png" />
+
+## PAYMENT PAGE
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss/Screenshot%20(301).png" />
+
+## REVIEW PAGE 
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss/Screenshot%20(303).png" />
+
+## THANK YOU PAGE 
+<img src = "https://raw.githubusercontent.com/Ajit24/portfolio-1/main/ss/Screenshot%20(305).png" />
+
 
 
 
